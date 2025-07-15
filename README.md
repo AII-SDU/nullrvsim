@@ -2,6 +2,8 @@
 
 (Working in Progress)
 
+**Current work here: [nullrvsim-fpga](https://github.com/meng-cz/nullrvsim-fpga)**
+
 A Cycle-Driven RISC-V (RV64GC) User-Mode Simulator for Learning Computer Architecture
 
 在学习计算机体系结构的时候搓的一个模拟器：
